@@ -13,3 +13,6 @@ Here are some quick previews of what the blog looks like,
 
 ### Register Page
 ![Register](https://github.com/richardcsuwandi/flask-blog/blob/master/images/register.png?raw=true)
+
+### Login Page
+![Login](https://github.com/richardcsuwandi/flask-blog/blob/master/images/login.png?raw=true)
