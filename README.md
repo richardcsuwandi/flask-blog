@@ -6,7 +6,7 @@ To use the blog, you can either register for an account or use the login info as
 
 Email: demo@flaskblog.com
 
-Password: demo123
+Password: demo1234
 
 ## Preview
 Here are some quick previews of what the blog looks like,
